@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>minimo</title>
+	
+	<section>
+		<img src="photo/logo.png">
+	</section>
+</head>
+<body>
+	<header>
+		<img src="minimo/photo/logo.png">
+		<nav class="display-inline-block">
+			<ul>
+				<liclass="display-inline-block"><a>lifestyle</a></li><!--
+				--><liclass="display-inline-block"><a>photodiary</a></li><!--
+				--><liclass="display-inline-block"><a>music</a></li><!--
+				--><liclass="display-inline-block"><a>travel</a></li>
+			</ul>
+		</nav>
+
+	</header>
+
+<section class="banner">s
+	<img src="photo/banner-photo.png">
+	<img src="photo/download.png">
+	<img src="photo/2.png">
+</section>
+
+	
+</body>
+
+</html>
